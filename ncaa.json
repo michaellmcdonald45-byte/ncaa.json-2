@@ -1,0 +1,31 @@
+{
+  "version": 41,
+  "startingSeason": 2026,
+  "confs": [
+    { "cid": 0, "name": "Atlantic Coast Conference" }
+  ],
+  "divs": [
+    { "did": 0, "cid": 0, "name": "ACC" }
+  ],
+  "teams": [
+    { "tid": 0, "cid": 0, "did": 0, "region": "Boston College", "name": "Eagles", "abbrev": "BC", "colors": ["#8C2232", "#DBCCA3"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/103.png" },
+    { "tid": 1, "cid": 0, "did": 0, "region": "California", "name": "Golden Bears", "abbrev": "CAL", "colors": ["#003262", "#FDB515"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png" },
+    { "tid": 2, "cid": 0, "did": 0, "region": "Clemson", "name": "Tigers", "abbrev": "CLEM", "colors": ["#F56600", "#522D80"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png" },
+    { "tid": 3, "cid": 0, "did": 0, "region": "Duke", "name": "Blue Devils", "abbrev": "DUKE", "colors": ["#003087", "#FFFFFF"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png" },
+    { "tid": 4, "cid": 0, "did": 0, "region": "Florida State", "name": "Seminoles", "abbrev": "FSU", "colors": ["#78243C", "#CEB888"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png" },
+    { "tid": 5, "cid": 0, "did": 0, "region": "Georgia Tech", "name": "Yellow Jackets", "abbrev": "GT", "colors": ["#B3A369", "#003057"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png" },
+    { "tid": 6, "cid": 0, "did": 0, "region": "Louisville", "name": "Cardinals", "abbrev": "LOU", "colors": ["#AD0000", "#000000"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png" },
+    { "tid": 7, "cid": 0, "did": 0, "region": "Miami", "name": "Hurricanes", "abbrev": "MIA", "colors": ["#F47321", "#005030"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png" },
+    { "tid": 8, "cid": 0, "did": 0, "region": "NC State", "name": "Wolfpack", "abbrev": "NCSU", "colors": ["#CC0000", "#000000"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png" },
+    { "tid": 9, "cid": 0, "did": 0, "region": "North Carolina", "name": "Tar Heels", "abbrev": "UNC", "colors": ["#7BAFD4", "#FFFFFF"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png" },
+    { "tid": 10, "cid": 0, "did": 0, "region": "Notre Dame", "name": "Fighting Irish", "abbrev": "ND", "colors": ["#0C2340", "#C99700"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png" },
+    { "tid": 11, "cid": 0, "did": 0, "region": "Pittsburgh", "name": "Panthers", "abbrev": "PITT", "colors": ["#003594", "#FFB81C"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png" },
+    { "tid": 12, "cid": 0, "did": 0, "region": "SMU", "name": "Mustangs", "abbrev": "SMU", "colors": ["#354CA1", "#CC0000"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png" },
+    { "tid": 13, "cid": 0, "did": 0, "region": "Stanford", "name": "Cardinal", "abbrev": "STAN", "colors": ["#8C1515", "#FFFFFF"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png" },
+    { "tid": 14, "cid": 0, "did": 0, "region": "Syracuse", "name": "Orange", "abbrev": "CUSE", "colors": ["#F76300", "#000E54"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png" },
+    { "tid": 15, "cid": 0, "did": 0, "region": "Virginia", "name": "Cavaliers", "abbrev": "UVA", "colors": ["#232D4B", "#F84C1E"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png" },
+    { "tid": 16, "cid": 0, "did": 0, "region": "Virginia Tech", "name": "Hokies", "abbrev": "VT", "colors": ["#630031", "#CF4420"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/259.png" },
+    { "tid": 17, "cid": 0, "did": 0, "region": "Wake Forest", "name": "Demon Deacons", "abbrev": "WAKE", "colors": ["#9E7E38", "#000000"], "imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png" }
+  ],
+  "players": []
+}
